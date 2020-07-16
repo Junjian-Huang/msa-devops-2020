@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://msa.azurewebsites.net/"
+          href="https://msa-2020-devop.azurewebsites.net/"
           target="_blank"
           rel="noopener noreferrer"
         >
